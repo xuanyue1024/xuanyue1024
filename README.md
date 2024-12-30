@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 我在 GitHub 上的统计
+
+<a title="Hits" target="_blank" href="https://github.com/88250/88250"><img src="https://hits.b3log.org/88250/88250.svg"></a>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=xuanyue1024&theme=tokyonight&show_icons=true)](https://github.com/xuanyue1024)
+
+<!--events start -->
