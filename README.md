@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### 我在 GitHub 上的统计
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanyue1024&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats-git-main-xuanyue1024s-projects.vercel.app/api?username=xuanyue1024&count_private=true&private_contributions=true&show_icons=true&locale=cn&include_all_commits=true)
 
 <!--events start -->
