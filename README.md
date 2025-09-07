@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 博客：
   - [https://blog.csdn.net/weixin_45564332](https://blog.csdn.net/weixin_45564332)
-  - [https://blog.xuanyue1024.cn/](https://blog.xuanyue1024.cn/)
+  - [https://yanghc.dev/](https://yanghc.dev/)
 - Gitee: [https://gitee.com/xuanyue03](https://gitee.com/xuanyue03)
 <!--
 **xuanyue1024/xuanyue1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
