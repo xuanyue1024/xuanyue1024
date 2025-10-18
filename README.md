@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats-git-main-xuanyue1024s-projects.vercel.app/api?username=xuanyue1024&theme=radical&count_private=true&private_contributions=true&show_icons=true&locale=cn&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats-git-main-xuanyue1024s-projects.vercel.app/api/top-langs/?username=xuanyue1024&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats-git-main-xuanyue1024s-projects.vercel.app/api/top-langs/?username=xuanyue1024&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 <!--events start -->
