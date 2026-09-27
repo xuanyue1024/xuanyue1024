@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 博客：
-  - [https://yanghc.dev/](https://yanghc.dev/)
+  - [https://www.yanghc.cn/](https://www.yanghc.cn/)
   - [https://blog.csdn.net/weixin_45564332](https://blog.csdn.net/weixin_45564332)
 - Gitee: [https://gitee.com/xuanyue03](https://gitee.com/xuanyue03)
 <!--
